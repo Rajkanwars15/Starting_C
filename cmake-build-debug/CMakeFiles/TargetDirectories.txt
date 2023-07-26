@@ -1,0 +1,3 @@
+/Users/raj/CLionProjects/Starting_C/cmake-build-debug/CMakeFiles/Starting_C.dir
+/Users/raj/CLionProjects/Starting_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/raj/CLionProjects/Starting_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
